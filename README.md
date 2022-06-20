@@ -6,7 +6,7 @@
   Central de Autoatendimento
 </h1>
 
-> Status: Finished ✅
+> Status: Finalizado ✅
 
 <p>Projeto desenvolvido para solucionar situação problema apresentada na aula de Fundamento de Algoritimos 1° Ciclo Ciêncida da Computação.</p>
 
@@ -18,7 +18,7 @@
   </a>
 </p>
 
-## Technologies Used:
+## Tecnologias Usadas:
 
 <table>
   <tr>
@@ -30,6 +30,12 @@
     <td>3.10.4</td>
   </tr>
 </table>
+
+## Como rodar a aplicação:
+
+1. Instale todas as dependências;
+2. Rode o arquivo main.py;
+3. Pronto!
 
 ## App Running:
 
