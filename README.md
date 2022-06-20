@@ -37,7 +37,7 @@
 2. Rode o arquivo main.py;
 3. Pronto!
 
-## App Running:
+## App Rodando:
 
 <div align="center">
    <img src="https://user-images.githubusercontent.com/54152996/174652844-5e80fd77-f0b2-4352-b56d-e9d9bd8f68bf.png" alt="Autoatendimento" height="230">
