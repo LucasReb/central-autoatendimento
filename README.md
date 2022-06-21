@@ -44,13 +44,13 @@
    <img src="https://user-images.githubusercontent.com/54152996/174653645-1763cea2-154d-46ed-ab30-966076b3023a.png" alt="Autoatendimento 2">
 </div>
 
-## Contributing
+## Contribuindo
 
-You can send how many PR's do you want, I'll be glad to analyse and accept them! And if you have any question about the project...
+Você pode enviar quantos PR's quiser, terei prazer em analisá-los e aceitá-los! E se você tiver alguma dúvida sobre o projeto...
 
-Email-me: lucasreboucas100@gmail.com
+Me mande um e-mail: lucasreboucas100@gmail.com
 
-Connect with me at [LinkedIn](https://www.linkedin.com/in/lucas-reboucas-silva/)
+Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/lucas-reboucas-silva/)
 
 Obrigado!
 
