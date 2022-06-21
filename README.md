@@ -52,7 +52,7 @@ Email-me: lucasreboucas100@gmail.com
 
 Connect with me at [LinkedIn](https://www.linkedin.com/in/lucas-reboucas-silva/)
 
-Thank you!
+Obrigado!
 
 ## License
 
