@@ -3,12 +3,12 @@
   <img src="https://user-images.githubusercontent.com/54152996/174647038-554ad1bb-490d-4116-9a8a-16ae1bf3d6c7.png" alt="Autoatendimento" width="200">
 <br>
 <br>
-  Central de Autoatendimento
+Self-service Kiosk
 </h1>
 
 > Status: Finalizado ✅
 
-<p>Projeto desenvolvido para solucionar situação problema apresentada na aula de Fundamento de Algoritimos 1° Ciclo Ciêncida da Computação.</p>
+<p>Project developed to solve a problem situation presented in the Fundamentals of Algorithms class, 1st Cycle of Computer Science.</p>
 
 <br>
 
