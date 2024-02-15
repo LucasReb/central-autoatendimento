@@ -6,7 +6,7 @@
 Self-service Kiosk
 </h1>
 
-> Status: Finalizado ✅
+> Status: Completed ✅
 
 <p>Project developed to solve a problem situation presented in the Fundamentals of Algorithms class, 1st Cycle of Computer Science.</p>
 
@@ -31,11 +31,11 @@ Self-service Kiosk
   </tr>
 </table>
 
-## Como rodar a aplicação:
+## How to run the application:
 
-1. Instale todas as dependências;
-2. Rode o arquivo main.py;
-3. Pronto!
+1. Install all dependencies;
+2. Run the main.py file;
+3. Ready!
 
 ## App Rodando:
 
