@@ -44,15 +44,15 @@ Self-service Kiosk
    <img src="https://user-images.githubusercontent.com/54152996/174653645-1763cea2-154d-46ed-ab30-966076b3023a.png" alt="Autoatendimento 2">
 </div>
 
-## Contribuindo
+## Contributing
 
-Você pode enviar quantos PR's quiser, terei prazer em analisá-los e aceitá-los! E se você tiver alguma dúvida sobre o projeto...
+You can send as many PRs as you want, I'll be happy to review and accept them! And if you have any questions about the project...
 
-Me mande um e-mail: lucasreboucas100@gmail.com
+Send me an email: lucasreboucas100@gmail.com
 
-Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/lucas-reboucas-silva/)
+Connect with me on [LinkedIn](https://www.linkedin.com/in/lucas-reboucas-silva/)
 
-Obrigado!
+Thanks!
 
 ## License
 
